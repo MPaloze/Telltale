@@ -5,5 +5,4 @@ defense_test_badnet.ipynb
 ```
 If you find our code useful, please kindly cite our work.
 ```
-Telltale...
 ```
